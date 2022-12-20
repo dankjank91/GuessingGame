@@ -85,7 +85,7 @@ namespace Main
         {
           
             i = i + 1;
-            Console.WriteLine("number of tries {0}", i);
+            Console.WriteLine("number of tries {0}/3", i);
             Console.WriteLine();
             if (i == 3)
             {
